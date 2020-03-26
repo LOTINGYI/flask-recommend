@@ -1,0 +1,6 @@
+Flask
+requests
+nltk
+scikit-learn
+azure-storage
+pandas
